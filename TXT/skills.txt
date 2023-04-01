@@ -1,0 +1,4 @@
+soft_skills: patiens
+hard_skills: - software testing theory
+	     - client-server architecture
+	     - scrum development methodology
