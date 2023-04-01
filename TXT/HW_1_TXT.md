@@ -7,7 +7,7 @@
 - `git clone https://github.com/mstepanova1/TXT.git`
 
  3. Внутри локального TXT создать файл “new.txt”  
-- `cd HW_1_TXT`  
+- `cd TXT`  
 - `touch new.txt`
 
  4. Добавить файл под гит
