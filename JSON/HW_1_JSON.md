@@ -1,10 +1,10 @@
 # GitHub_HW_1_JSON
 
 1. Создать внешний репозиторий c названием JSON
-- <https://github.com/mstepanova1/GitHub/JSON.git>
+- <https://github.com/mstepanova1/GitHub/tree/main/JSON.git>
 
  2. Клонировать репозиторий JSON на локальный компьютер
-- `git clone https://github.com/mstepanova1/GitHub/JSON.git`
+- `git clone https://github.com/mstepanova1/GitHub/tree/main/JSON.git`
 
  3. Внутри локального JSON создать файл “new.json”
 - `cd Github/JSON`
