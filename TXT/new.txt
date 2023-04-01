@@ -1,0 +1,5 @@
+name: John
+surname: Smith
+age: 27
+pets: 1 cat Klaus
+desired_salary: 10000$
