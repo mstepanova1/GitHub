@@ -1,12 +1,12 @@
 # Github_HW_1_XML
 1. Создать внешний репозиторий c названием XML
-- <https://github.com/mstepanova1/Github_HW_1_XML.git>
+- <https://github.com/mstepanova1/XML.git>
 
  2. Клонировать репозиторий XML на локальный компьютер
-- `git clone https://github.com/mstepanova1/Github_HW_1_XML.git`
+- `git clone https://github.com/mstepanova1/XML.git`
 
  3. Внутри локального XML создать файл “new.xml”
-- `cd Github_HW_1_XML`
+- `cd XML`
 - `touch new.xml`
 
  4. Добавить файл под гит
