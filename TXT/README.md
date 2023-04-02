@@ -1,4 +1,4 @@
-# Github_HW_1_TXT
+# GitHub_HW_1_TXT
 
 1. Создать внешний репозиторий c названием TXT
 - <https://github.com/mstepanova1/TXT.git>
