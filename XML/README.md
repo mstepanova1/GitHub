@@ -1,4 +1,4 @@
-# Github_HW_1_XML
+# GitHub_HW_1_XML
 1. Создать внешний репозиторий c названием XML
 - <https://github.com/mstepanova1/XML.git>
 
